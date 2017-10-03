@@ -1,0 +1,2 @@
+# Distributed-File-System
+This file system acts similar to Network File System (NFS). A server master/slave architecture was developed wherein slave server failures, file replication, file reallocation and file consistency in the slave servers were handled dynamically and asynchronously. Files could be of any size with any number of files. Was developed using Java’s File I/O class and multi-threading.
